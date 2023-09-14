@@ -1,0 +1,35 @@
+.value{
+    border: 1px solid black;
+    border-radius: 30px;
+}
+
+
+/* .container-fluid {
+    padding-top: 30px;
+  }
+  
+  .card {
+    border: none;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    height: 200px;
+  }
+  
+  .card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    font-size: 2rem;
+    margin-top: 30px;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .row {
+    margin-top: 30px;
+  } */
+  
